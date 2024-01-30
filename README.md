@@ -4,7 +4,8 @@
 A cross-space filter is proposed to produce the adaptive-frequency information extracted from both the topology and attribute spaces. It alleviates the over-smoothing problem while simultaneously promoting the effectiveness of downstream tasks.
 
 ## Paper
-Coming soon
+[arvix version](https://arxiv.org/abs/2401.14876) 
+Camera Ready: TODO
 
 ## 
 
